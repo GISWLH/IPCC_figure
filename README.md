@@ -11,5 +11,6 @@ Please see the file:
 | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/IPCC.jpg) | R         | Scatter                            | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/plot.png) |
 | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/FAQ9.2.png) | python    | sea level                          | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/plot_sea_level.png) |
 | ![image-20230406214528151](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230406214528151.png) | python    | energy                             | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230412213220.png) |
+| ![image-20230813000659884](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/image-20230813000659884.png) | python    | Global solar flux                  | ![image-20230813000110842](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/image-20230813000110842.png) |
 
  
