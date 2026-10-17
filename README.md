@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![IPCC_figure — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # IPCC_figure
  reconstruct the IPCC AR6 figure
 
@@ -15,4 +19,6 @@ Please see the file:
 | ![fig7.16](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/fig7.16.png) | python    | Copula                             | ![image-20230830205854986](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/image-20230830205854986.png) |
 | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/20241125213244.png) | Python    | Permafrost                         | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/20241125213316.png) |
 
- 
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
